@@ -1,0 +1,12 @@
+serverSentInfo
+__pycache__/
+server.crt
+server.key
+*.json
+<<<<<<< HEAD
+*.idea
+.idea
+*.json
+=======
+.idea/
+>>>>>>> cbecc98302e0316f302d8ff63a31572e74dc1280
